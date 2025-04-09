@@ -1,4 +1,4 @@
-👾 ´´´Cieko axolotl´´´
+👾 - Cieko axolotl -
 
 -🚀Entusiasta de programação e Linux 🐧, aprendendo a codar e explorar sistemas. Aqui você encontra meus projetos simples, scripts e experimentos no terminal. 
 
@@ -6,6 +6,6 @@
 
 -⚡ Vibe: Terminal fish e um cafézin
 
--📡 X: [@seuusuario]
+-📡 none
 
 "Um bug de cada vez!" 😄
