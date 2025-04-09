@@ -1,6 +1,6 @@
 👾 ´´´Cieko axolotl´´´
 
-- 🚀Entusiasta de programação e Linux 🐧, aprendendo a codar e explorar sistemas. Aqui você encontra meus projetos simples, scripts e experimentos no terminal. 
+-🚀Entusiasta de programação e Linux 🐧, aprendendo a codar e explorar sistemas. Aqui você encontra meus projetos simples, scripts e experimentos no terminal. 
 
 -✨🌱 Estudando: [Sh, C, Bash]
 
